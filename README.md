@@ -1,3 +1,3 @@
 # instagram-bot
 
-![](https://github.com/instagram-bot/Your_GIF_Name.gif)
+![](https://github.com/instagram-bot/gif.gif)
